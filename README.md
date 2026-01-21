@@ -1,5 +1,6 @@
 Project Title: Sum of Distinct Elements from Two Sets (Using Arrays in .algo)
-Description: This project implements an algorithm using .algo to find the sum of all distinct elements between two sets. Distinct elements are those that appear in only one of the two sets.
+Description: This project implements an algorithm using .algo to find the sum of all distinct elements between two sets. 
+Distinct elements are those that appear in only one of the two sets.
 Example: Set 1 = [3, 1, 7, 9] Set 2 = [2, 4, 1, 9, 3] Distinct elements = 7, 2, 4 Output = 13
 Approach:
 	1	Initialize Sum = 0.
